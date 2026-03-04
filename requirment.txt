@@ -1,0 +1,7 @@
+mcp-use
+langchain_huggingface
+langchain_classic
+langchain_core
+confluent-kafka
+fastapi[standard]
+aiohttp
