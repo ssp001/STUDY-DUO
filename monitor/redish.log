@@ -1,0 +1,94 @@
+2026-04-16 14:44:20,405 - utils.logger - INFO - an excestion occured:(Request ID: Root=1-69e0a865-7a09b4d52cc4684f71f60cf7;5f5b4360-8c12-4cf5-97b8-733e2c2396c2-chatcmpl-c6e6c83)
+
+429 Too Many Requests for url: https://router.huggingface.co/v1/chat/completions.
+{'object': 'error', 'type': 'invalid_request_error', 'code': 'too_many_requests', 'message': "Request didn't generate first token before the given deadline, the service is overloaded"}
+2026-04-16 14:44:20,416 - utils.logger - ERROR - exception occured(Request ID: Root=1-69e0a865-7a09b4d52cc4684f71f60cf7;5f5b4360-8c12-4cf5-97b8-733e2c2396c2-chatcmpl-c6e6c83)
+
+429 Too Many Requests for url: https://router.huggingface.co/v1/chat/completions.
+{'object': 'error', 'type': 'invalid_request_error', 'code': 'too_many_requests', 'message': "Request didn't generate first token before the given deadline, the service is overloaded"}
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\huggingface_hub\utils\_http.py", line 761, in hf_raise_for_status
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\httpx\_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '429 Too Many Requests' for url 'https://router.huggingface.co/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\infra\agnet_client.py", line 32, in run_query
+    for chunks in self.client.stream(query):
+                  ~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 592, in stream
+    for chunk in self._stream(input_messages, stop=stop, **kwargs):
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_huggingface\chat_models\huggingface.py", line 841, in _stream
+    for chunk in self.llm.client.chat_completion(
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        messages=message_dicts, **params
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\huggingface_hub\inference\_client.py", line 929, in chat_completion
+    data = self._inner_post(request_parameters, stream=stream)
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\huggingface_hub\inference\_client.py", line 282, in _inner_post
+    hf_raise_for_status(response)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\huggingface_hub\utils\_http.py", line 868, in hf_raise_for_status
+    raise _format(HfHubHTTPError, message, response) from e
+huggingface_hub.errors.HfHubHTTPError: (Request ID: Root=1-69e0a865-7a09b4d52cc4684f71f60cf7;5f5b4360-8c12-4cf5-97b8-733e2c2396c2-chatcmpl-c6e6c83)
+
+429 Too Many Requests for url: https://router.huggingface.co/v1/chat/completions.
+{'object': 'error', 'type': 'invalid_request_error', 'code': 'too_many_requests', 'message': "Request didn't generate first token before the given deadline, the service is overloaded"}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 18, in genarator
+    async for chunk in graph.astream({"messages": [{"role": "user", "content": query}]}):
+    ...<2 lines>...
+        yield str(chunk)
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\main.py", line 3128, in astream
+    async for _ in runner.atick(
+    ...<16 lines>...
+            yield o
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_runner.py", line 304, in atick
+    await arun_with_retry(
+    ...<15 lines>...
+    )
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_retry.py", line 242, in arun_with_retry
+    return await task.proc.ainvoke(task.input, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 705, in ainvoke
+    input = await asyncio.create_task(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+        step.ainvoke(input, config, **kwargs), context=context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 5045, in ainvoke
+    return await self._acall_with_config(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 2111, in _acall_with_config
+    output: Output = await coro_with_context(coro, context)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 4963, in _ainvoke
+    async for chunk in cast(
+    ...<9 lines>...
+                output = chunk
+  File "C:\Users\shova\Desktop\project\Study-Duo\service\agent_node.py", line 12, in run
+    async for chunk in self.client.run_query(messages):
+    ...<2 lines>...
+        yield {"messages": [{"role": "assistant", "content": respones}]}
+  File "C:\Users\shova\Desktop\project\Study-Duo\infra\agnet_client.py", line 37, in run_query
+    raise RuntimeError(error)
+RuntimeError: (Request ID: Root=1-69e0a865-7a09b4d52cc4684f71f60cf7;5f5b4360-8c12-4cf5-97b8-733e2c2396c2-chatcmpl-c6e6c83)
+
+429 Too Many Requests for url: https://router.huggingface.co/v1/chat/completions.
+{'object': 'error', 'type': 'invalid_request_error', 'code': 'too_many_requests', 'message': "Request didn't generate first token before the given deadline, the service is overloaded"}
+During task with name 'llm' and id '15790fc0-623f-405e-51e2-5dfc51b9e731'

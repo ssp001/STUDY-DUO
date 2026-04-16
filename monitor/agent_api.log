@@ -1,0 +1,1602 @@
+2026-04-15 21:14:31,646 - utils.logger - INFO - agnet anwer fetched sucessfully
+2026-04-15 21:14:34,212 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:05,487 - utils.logger - INFO - agnet anwer fetched sucessfully
+2026-04-15 21:18:07,021 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,022 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,025 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,026 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,029 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,030 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,031 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,039 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,039 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,040 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,051 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,051 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,052 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,053 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,054 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,054 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,055 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,058 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,059 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,059 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,068 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,069 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,080 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,081 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,085 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,086 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,090 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,091 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,091 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,103 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,103 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,104 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,116 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,116 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,117 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,118 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,118 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,119 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,129 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,130 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,131 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,131 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:18:07,132 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:49,027 - utils.logger - INFO - agnet anwer fetched sucessfully
+2026-04-15 21:19:52,264 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,264 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,265 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,266 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,266 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,267 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,267 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,268 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,268 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,269 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,270 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,270 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,271 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,271 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,272 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,273 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,274 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,275 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,275 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,276 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,277 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,277 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,278 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,278 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,279 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,280 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,280 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,281 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,281 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,284 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,285 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,286 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,291 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,291 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,292 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,301 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,301 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,302 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,312 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,312 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,329 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,330 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,330 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,333 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,334 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,338 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,347 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,358 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,367 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,376 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,377 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,385 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,397 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,397 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,397 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,408 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,409 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,409 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,419 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,419 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,420 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,428 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,429 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,436 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,437 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,438 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,447 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,455 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,455 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,466 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,467 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,467 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,476 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,476 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,493 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,494 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,495 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,506 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,506 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,507 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,510 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,510 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,511 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,519 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,519 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,524 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,524 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,525 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,537 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,543 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,544 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,545 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,567 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,568 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,569 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,575 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,575 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,576 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,815 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,816 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,817 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,845 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,846 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,847 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,850 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,854 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,855 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,856 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,862 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,863 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,863 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,872 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,872 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,873 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,889 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,890 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,890 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,897 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,906 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,906 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,907 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,914 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,915 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,916 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,928 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,929 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,929 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,937 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,937 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,938 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,955 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,955 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,956 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,967 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,968 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,968 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,976 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,976 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,977 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,987 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:52,996 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,007 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,008 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,017 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,018 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,018 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,026 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,027 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,027 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,037 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,047 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,055 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,056 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,057 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,068 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,084 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,085 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,085 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,092 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,093 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,093 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,099 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,100 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,100 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,107 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,107 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,108 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,118 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,118 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,119 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,134 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,134 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,140 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,147 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,158 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,159 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,159 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,170 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,171 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,178 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,179 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,187 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,188 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,188 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,197 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,212 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,213 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,214 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,222 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,229 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,236 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,237 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,238 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,248 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,257 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,258 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,259 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,267 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,267 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,288 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,289 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,289 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,294 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,295 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,295 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,308 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,313 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,313 - utils.logger - INFO - streming respones fetched succesful
+2026-04-15 21:19:53,314 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 11:06:07,054 - utils.logger - ERROR - exception occured'async for' requires an object with __aiter__ method, got generator
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 15, in ai_answer
+    async for chunk in graph.stream(query):
+                       ~~~~~~~~~~~~^^^^^^^
+TypeError: 'async for' requires an object with __aiter__ method, got generator
+2026-04-16 11:08:41,895 - utils.logger - ERROR - exception occured'async for' requires an object with __aiter__ method, got generator
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 15, in ai_answer
+    async for chunk in graph.stream({"messages": [{"role": "user", "content": query}]}):
+                       ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'async for' requires an object with __aiter__ method, got generator
+2026-04-16 11:09:38,776 - utils.logger - ERROR - exception occuredCannot invoke a coroutine function synchronously.Use `ainvoke` instead.
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 15, in ai_answer
+    for chunk in graph.stream({"messages": [{"role": "user", "content": query}]}):
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\main.py", line 2736, in stream
+    for _ in runner.tick(
+             ~~~~~~~~~~~^
+        [t for t in loop.tasks.values() if not t.writes],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        schedule_task=loop.accept_push,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_runner.py", line 167, in tick
+    run_with_retry(
+    ~~~~~~~~~~~~~~^
+        t,
+        ^^
+    ...<10 lines>...
+        },
+        ^^
+    )
+    ^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_retry.py", line 126, in run_with_retry
+    return task.proc.invoke(task.input, config)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 656, in invoke
+    input = context.run(step.invoke, input, config, **kwargs)
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 5025, in invoke
+    raise TypeError(msg)
+TypeError: Cannot invoke a coroutine function synchronously.Use `ainvoke` instead.
+During task with name 'llm' and id '6a988391-999e-2885-234b-953799607001'
+2026-04-16 11:10:19,913 - utils.logger - ERROR - exception occured'coroutine' object is not iterable
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 15, in ai_answer
+    for chunk in graph.ainvoke({"messages": [{"role": "user", "content": query}]}):
+                 ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'coroutine' object is not iterable
+2026-04-16 11:16:36,613 - utils.logger - ERROR - exception occured'coroutine' object is not iterable
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 15, in ai_answer
+    for chunk in graph.ainvoke({"messages": [{"role": "user", "content": query}]}):
+                 ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'coroutine' object is not iterable
+2026-04-16 11:18:47,293 - utils.logger - ERROR - exception occured'async_generator' object is not iterable
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 15, in ai_answer
+    for chunk in graph.astream({"messages": [{"role": "user", "content": query}]}):
+                 ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'async_generator' object is not iterable
+2026-04-16 11:21:23,391 - utils.logger - ERROR - exception occured'async_generator' object is not iterable
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 15, in ai_answer
+    for chunk in graph.astream({"messages": [{"role": "user", "content": query}]}):
+                 ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'async_generator' object is not iterable
+2026-04-16 11:22:20,301 - utils.logger - ERROR - exception occured'async_generator' object is not iterable
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 15, in ai_answer
+    for chunk in graph.astream(query):
+                 ~~~~~~~~~~~~~^^^^^^^
+TypeError: 'async_generator' object is not iterable
+2026-04-16 12:04:42,453 - utils.logger - ERROR - exception occured'async_generator' object is not iterable
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 15, in ai_answer
+    for chunk in graph.astream(query):
+                 ~~~~~~~~~~~~~^^^^^^^
+TypeError: 'async_generator' object is not iterable
+2026-04-16 12:04:53,083 - utils.logger - ERROR - exception occured'async_generator' object is not iterable
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 15, in ai_answer
+    for chunk in graph.astream(query):
+                 ~~~~~~~~~~~~~^^^^^^^
+TypeError: 'async_generator' object is not iterable
+2026-04-16 12:05:07,584 - utils.logger - ERROR - exception occured'async_generator' object is not iterable
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 15, in ai_answer
+    for chunk in graph.astream(query):
+                 ~~~~~~~~~~~~~^^^^^^^
+TypeError: 'async_generator' object is not iterable
+2026-04-16 12:05:29,378 - utils.logger - ERROR - exception occured'async_generator' object is not iterable
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 15, in ai_answer
+    for chunk in graph.astream(query):
+                 ~~~~~~~~~~~~~^^^^^^^
+TypeError: 'async_generator' object is not iterable
+2026-04-16 12:06:43,714 - utils.logger - ERROR - exception occured'async_generator' object is not iterable
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 15, in ai_answer
+    for chunk in graph.astream(query):
+                 ~~~~~~~~~~~~~^^^^^^^
+TypeError: 'async_generator' object is not iterable
+2026-04-16 12:09:58,611 - utils.logger - ERROR - exception occured'async_generator' object is not iterable
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 15, in ai_answer
+    for chunk in graph.astream(query):
+                 ~~~~~~~~~~~~~^^^^^^^
+TypeError: 'async_generator' object is not iterable
+2026-04-16 12:10:27,657 - utils.logger - ERROR - exception occuredExpected dict, got hi
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langgraph/errors/INVALID_GRAPH_NODE_RETURN_VALUE
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 15, in ai_answer
+    async for chunk in graph.astream(query):
+        logger.info("agnet anwer fetched sucessfully")
+        return StreamingResponse(chunk, media_type="text/plain")
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\main.py", line 3128, in astream
+    async for _ in runner.atick(
+    ...<16 lines>...
+            yield o
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_runner.py", line 304, in atick
+    await arun_with_retry(
+    ...<15 lines>...
+    )
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_retry.py", line 242, in arun_with_retry
+    return await task.proc.ainvoke(task.input, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 473, in ainvoke
+    ret = await self.afunc(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_write.py", line 99, in _awrite
+    self.do_write(
+    ~~~~~~~~~~~~~^
+        config,
+        ^^^^^^^
+        writes,
+        ^^^^^^^
+    )
+    ^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_write.py", line 126, in do_write
+    write(_assemble_writes(writes))
+          ~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_write.py", line 181, in _assemble_writes
+    if ww := w.mapper(w.value):
+             ~~~~~~~~^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\graph\state.py", line 1284, in _get_updates
+    raise InvalidUpdateError(msg)
+langgraph.errors.InvalidUpdateError: Expected dict, got hi
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langgraph/errors/INVALID_GRAPH_NODE_RETURN_VALUE
+During task with name '__start__' and id 'f895af5f-2815-9a64-9350-e13c8b534522'
+2026-04-16 12:10:34,491 - utils.logger - ERROR - exception occuredExpected dict, got hi
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langgraph/errors/INVALID_GRAPH_NODE_RETURN_VALUE
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 15, in ai_answer
+    async for chunk in graph.astream(query):
+        logger.info("agnet anwer fetched sucessfully")
+        return StreamingResponse(chunk, media_type="text/plain")
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\main.py", line 3128, in astream
+    async for _ in runner.atick(
+    ...<16 lines>...
+            yield o
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_runner.py", line 304, in atick
+    await arun_with_retry(
+    ...<15 lines>...
+    )
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_retry.py", line 242, in arun_with_retry
+    return await task.proc.ainvoke(task.input, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 473, in ainvoke
+    ret = await self.afunc(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_write.py", line 99, in _awrite
+    self.do_write(
+    ~~~~~~~~~~~~~^
+        config,
+        ^^^^^^^
+        writes,
+        ^^^^^^^
+    )
+    ^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_write.py", line 126, in do_write
+    write(_assemble_writes(writes))
+          ~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_write.py", line 181, in _assemble_writes
+    if ww := w.mapper(w.value):
+             ~~~~~~~~^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\graph\state.py", line 1284, in _get_updates
+    raise InvalidUpdateError(msg)
+langgraph.errors.InvalidUpdateError: Expected dict, got hi
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langgraph/errors/INVALID_GRAPH_NODE_RETURN_VALUE
+During task with name '__start__' and id '7751a51c-c664-5edc-7a7b-4de4c5a08ce1'
+2026-04-16 12:10:57,985 - utils.logger - INFO - an excestion occured:Invalid input type <class 'dict'>. Must be a PromptValue, str, or list of BaseMessages.
+2026-04-16 12:10:57,993 - utils.logger - ERROR - exception occuredInvalid input type <class 'dict'>. Must be a PromptValue, str, or list of BaseMessages.
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\infra\agnet_client.py", line 32, in run_query
+    for chunks in self.client.stream(query):
+                  ~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 548, in stream
+    messages = self._convert_input(input).to_messages()
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 438, in _convert_input
+    raise ValueError(msg)
+ValueError: Invalid input type <class 'dict'>. Must be a PromptValue, str, or list of BaseMessages.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 15, in ai_answer
+    async for chunk in graph.astream({"input": query}):
+        logger.info("agnet anwer fetched sucessfully")
+        return StreamingResponse(chunk, media_type="text/plain")
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\main.py", line 3128, in astream
+    async for _ in runner.atick(
+    ...<16 lines>...
+            yield o
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_runner.py", line 304, in atick
+    await arun_with_retry(
+    ...<15 lines>...
+    )
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_retry.py", line 242, in arun_with_retry
+    return await task.proc.ainvoke(task.input, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 705, in ainvoke
+    input = await asyncio.create_task(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+        step.ainvoke(input, config, **kwargs), context=context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 5045, in ainvoke
+    return await self._acall_with_config(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 2111, in _acall_with_config
+    output: Output = await coro_with_context(coro, context)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 4963, in _ainvoke
+    async for chunk in cast(
+    ...<9 lines>...
+                output = chunk
+  File "C:\Users\shova\Desktop\project\Study-Duo\service\agent_service.py", line 16, in run_agent
+    async for chunk in self.client.run_query(query=query):
+        yield chunk
+  File "C:\Users\shova\Desktop\project\Study-Duo\infra\agnet_client.py", line 37, in run_query
+    raise RuntimeError(error)
+RuntimeError: Invalid input type <class 'dict'>. Must be a PromptValue, str, or list of BaseMessages.
+During task with name 'llm' and id '1cd2fcb0-0b87-7c4d-2a56-1d5054d27fc5'
+2026-04-16 12:17:14,200 - utils.logger - ERROR - exception occured2 validation errors for HumanMessage
+content.str
+  Input should be a valid string [type=string_type, input_value={'messages': []}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+content.list[union[str,dict[any,any]]]
+  Input should be a valid list [type=list_type, input_value={'messages': []}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/list_type
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 15, in ai_answer
+    async for chunk in graph.astream({"input": query}):
+        logger.info("agnet anwer fetched sucessfully")
+        return StreamingResponse(chunk, media_type="text/plain")
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\main.py", line 3128, in astream
+    async for _ in runner.atick(
+    ...<16 lines>...
+            yield o
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_runner.py", line 304, in atick
+    await arun_with_retry(
+    ...<15 lines>...
+    )
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_retry.py", line 242, in arun_with_retry
+    return await task.proc.ainvoke(task.input, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 705, in ainvoke
+    input = await asyncio.create_task(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+        step.ainvoke(input, config, **kwargs), context=context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 5045, in ainvoke
+    return await self._acall_with_config(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 2111, in _acall_with_config
+    output: Output = await coro_with_context(coro, context)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 4963, in _ainvoke
+    async for chunk in cast(
+    ...<9 lines>...
+                output = chunk
+  File "C:\Users\shova\Desktop\project\Study-Duo\service\agent_service.py", line 18, in run_agent
+    messages = [HumanMessage(content=query)]
+                ~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\messages\human.py", line 60, in __init__
+    super().__init__(content=content, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\messages\base.py", line 179, in __init__
+    super().__init__(content=content, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\load\serializable.py", line 118, in __init__
+    super().__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\pydantic\main.py", line 263, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 2 validation errors for HumanMessage
+content.str
+  Input should be a valid string [type=string_type, input_value={'messages': []}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+content.list[union[str,dict[any,any]]]
+  Input should be a valid list [type=list_type, input_value={'messages': []}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/list_type
+During task with name 'llm' and id '78a2e095-000a-48b9-dabe-0f838f86eae8'
+2026-04-16 12:22:28,270 - utils.logger - ERROR - exception occuredExpected dict, got hi
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langgraph/errors/INVALID_GRAPH_NODE_RETURN_VALUE
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 15, in ai_answer
+    async for chunk in graph.astream(query):
+        logger.info("agnet anwer fetched sucessfully")
+        return StreamingResponse(chunk, media_type="text/plain")
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\main.py", line 3128, in astream
+    async for _ in runner.atick(
+    ...<16 lines>...
+            yield o
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_runner.py", line 304, in atick
+    await arun_with_retry(
+    ...<15 lines>...
+    )
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_retry.py", line 242, in arun_with_retry
+    return await task.proc.ainvoke(task.input, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 473, in ainvoke
+    ret = await self.afunc(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_write.py", line 99, in _awrite
+    self.do_write(
+    ~~~~~~~~~~~~~^
+        config,
+        ^^^^^^^
+        writes,
+        ^^^^^^^
+    )
+    ^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_write.py", line 126, in do_write
+    write(_assemble_writes(writes))
+          ~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_write.py", line 181, in _assemble_writes
+    if ww := w.mapper(w.value):
+             ~~~~~~~~^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\graph\state.py", line 1284, in _get_updates
+    raise InvalidUpdateError(msg)
+langgraph.errors.InvalidUpdateError: Expected dict, got hi
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langgraph/errors/INVALID_GRAPH_NODE_RETURN_VALUE
+During task with name '__start__' and id 'b4a7e04d-dc0b-3fee-2f86-031f6b4d95e3'
+2026-04-16 12:26:04,710 - utils.logger - ERROR - exception occured2 validation errors for HumanMessage
+content.str
+  Input should be a valid string [type=string_type, input_value={'messages': [HumanMessag...1e-a377-d40198ab52e2')]}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+content.list[union[str,dict[any,any]]]
+  Input should be a valid list [type=list_type, input_value={'messages': [HumanMessag...1e-a377-d40198ab52e2')]}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/list_type
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 15, in ai_answer
+    async for chunk in graph.astream({"messages": [{"role": "user", "content": query}]
+    ...<2 lines>...
+        logger.info("agnet anwer fetched sucessfully")
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\main.py", line 3128, in astream
+    async for _ in runner.atick(
+    ...<16 lines>...
+            yield o
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_runner.py", line 304, in atick
+    await arun_with_retry(
+    ...<15 lines>...
+    )
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_retry.py", line 242, in arun_with_retry
+    return await task.proc.ainvoke(task.input, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 705, in ainvoke
+    input = await asyncio.create_task(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+        step.ainvoke(input, config, **kwargs), context=context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 5045, in ainvoke
+    return await self._acall_with_config(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 2111, in _acall_with_config
+    output: Output = await coro_with_context(coro, context)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 4963, in _ainvoke
+    async for chunk in cast(
+    ...<9 lines>...
+                output = chunk
+  File "C:\Users\shova\Desktop\project\Study-Duo\service\agent_service.py", line 19, in run_agent
+    messages = [HumanMessage(content=query)]
+                ~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\messages\human.py", line 60, in __init__
+    super().__init__(content=content, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\messages\base.py", line 179, in __init__
+    super().__init__(content=content, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\load\serializable.py", line 118, in __init__
+    super().__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\pydantic\main.py", line 263, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 2 validation errors for HumanMessage
+content.str
+  Input should be a valid string [type=string_type, input_value={'messages': [HumanMessag...1e-a377-d40198ab52e2')]}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+content.list[union[str,dict[any,any]]]
+  Input should be a valid list [type=list_type, input_value={'messages': [HumanMessag...1e-a377-d40198ab52e2')]}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/list_type
+During task with name 'llm' and id '71f1dfa5-471a-894f-3141-1070ab952ae0'
+2026-04-16 12:26:17,696 - utils.logger - ERROR - exception occured2 validation errors for HumanMessage
+content.str
+  Input should be a valid string [type=string_type, input_value={'messages': [HumanMessag...19-b468-6abbbd436d19')]}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+content.list[union[str,dict[any,any]]]
+  Input should be a valid list [type=list_type, input_value={'messages': [HumanMessag...19-b468-6abbbd436d19')]}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/list_type
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 15, in ai_answer
+    async for chunk in graph.astream({"messages": [{"role": "user", "content": query}]}):
+        yield str(chunk)
+        logger.info("agnet anwer fetched sucessfully")
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\main.py", line 3128, in astream
+    async for _ in runner.atick(
+    ...<16 lines>...
+            yield o
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_runner.py", line 304, in atick
+    await arun_with_retry(
+    ...<15 lines>...
+    )
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_retry.py", line 242, in arun_with_retry
+    return await task.proc.ainvoke(task.input, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 705, in ainvoke
+    input = await asyncio.create_task(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+        step.ainvoke(input, config, **kwargs), context=context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 5045, in ainvoke
+    return await self._acall_with_config(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 2111, in _acall_with_config
+    output: Output = await coro_with_context(coro, context)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 4963, in _ainvoke
+    async for chunk in cast(
+    ...<9 lines>...
+                output = chunk
+  File "C:\Users\shova\Desktop\project\Study-Duo\service\agent_service.py", line 19, in run_agent
+    messages = [HumanMessage(content=query)]
+                ~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\messages\human.py", line 60, in __init__
+    super().__init__(content=content, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\messages\base.py", line 179, in __init__
+    super().__init__(content=content, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\load\serializable.py", line 118, in __init__
+    super().__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\pydantic\main.py", line 263, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 2 validation errors for HumanMessage
+content.str
+  Input should be a valid string [type=string_type, input_value={'messages': [HumanMessag...19-b468-6abbbd436d19')]}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+content.list[union[str,dict[any,any]]]
+  Input should be a valid list [type=list_type, input_value={'messages': [HumanMessag...19-b468-6abbbd436d19')]}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/list_type
+During task with name 'llm' and id '83d3665c-a476-3eda-52bd-31ba80c2d3ff'
+2026-04-16 12:39:51,729 - utils.logger - INFO - an excestion occured:Invalid input type <class 'dict'>. Must be a PromptValue, str, or list of BaseMessages.
+2026-04-16 12:39:51,737 - utils.logger - ERROR - exception occuredInvalid input type <class 'dict'>. Must be a PromptValue, str, or list of BaseMessages.
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\infra\agnet_client.py", line 32, in run_query
+    for chunks in self.client.stream(query):
+                  ~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 548, in stream
+    messages = self._convert_input(input).to_messages()
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 438, in _convert_input
+    raise ValueError(msg)
+ValueError: Invalid input type <class 'dict'>. Must be a PromptValue, str, or list of BaseMessages.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 15, in ai_answer
+    async for chunk in graph.astream({"messages": [{"role": "user", "content": query}]}):
+        yield str(chunk)
+        logger.info("agnet anwer fetched sucessfully")
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\main.py", line 3128, in astream
+    async for _ in runner.atick(
+    ...<16 lines>...
+            yield o
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_runner.py", line 304, in atick
+    await arun_with_retry(
+    ...<15 lines>...
+    )
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_retry.py", line 242, in arun_with_retry
+    return await task.proc.ainvoke(task.input, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 705, in ainvoke
+    input = await asyncio.create_task(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+        step.ainvoke(input, config, **kwargs), context=context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 5045, in ainvoke
+    return await self._acall_with_config(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 2111, in _acall_with_config
+    output: Output = await coro_with_context(coro, context)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 4963, in _ainvoke
+    async for chunk in cast(
+    ...<9 lines>...
+                output = chunk
+  File "C:\Users\shova\Desktop\project\Study-Duo\service\agent_node.py", line 9, in run
+    async for chunks in self.client.run_query(query=query):
+        yield str(chunks)
+  File "C:\Users\shova\Desktop\project\Study-Duo\infra\agnet_client.py", line 37, in run_query
+    raise RuntimeError(error)
+RuntimeError: Invalid input type <class 'dict'>. Must be a PromptValue, str, or list of BaseMessages.
+During task with name 'llm' and id 'c00b8bef-ef13-559f-fad1-58094444e450'
+2026-04-16 12:40:28,939 - utils.logger - ERROR - exception occuredExpected dict, got hi
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langgraph/errors/INVALID_GRAPH_NODE_RETURN_VALUE
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 15, in ai_answer
+    async for chunk in graph.astream(query):
+        yield str(chunk)
+        logger.info("agnet anwer fetched sucessfully")
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\main.py", line 3128, in astream
+    async for _ in runner.atick(
+    ...<16 lines>...
+            yield o
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_runner.py", line 304, in atick
+    await arun_with_retry(
+    ...<15 lines>...
+    )
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_retry.py", line 242, in arun_with_retry
+    return await task.proc.ainvoke(task.input, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 473, in ainvoke
+    ret = await self.afunc(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_write.py", line 99, in _awrite
+    self.do_write(
+    ~~~~~~~~~~~~~^
+        config,
+        ^^^^^^^
+        writes,
+        ^^^^^^^
+    )
+    ^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_write.py", line 126, in do_write
+    write(_assemble_writes(writes))
+          ~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_write.py", line 181, in _assemble_writes
+    if ww := w.mapper(w.value):
+             ~~~~~~~~^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\graph\state.py", line 1284, in _get_updates
+    raise InvalidUpdateError(msg)
+langgraph.errors.InvalidUpdateError: Expected dict, got hi
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langgraph/errors/INVALID_GRAPH_NODE_RETURN_VALUE
+During task with name '__start__' and id 'fe9aa181-4811-ad3b-f4ce-e5aa7df216a0'
+2026-04-16 12:40:37,902 - utils.logger - ERROR - exception occuredExpected dict, got hi
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langgraph/errors/INVALID_GRAPH_NODE_RETURN_VALUE
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 15, in ai_answer
+    async for chunk in graph.astream(query):
+        yield str(chunk)
+        logger.info("agnet anwer fetched sucessfully")
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\main.py", line 3128, in astream
+    async for _ in runner.atick(
+    ...<16 lines>...
+            yield o
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_runner.py", line 304, in atick
+    await arun_with_retry(
+    ...<15 lines>...
+    )
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_retry.py", line 242, in arun_with_retry
+    return await task.proc.ainvoke(task.input, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 473, in ainvoke
+    ret = await self.afunc(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_write.py", line 99, in _awrite
+    self.do_write(
+    ~~~~~~~~~~~~~^
+        config,
+        ^^^^^^^
+        writes,
+        ^^^^^^^
+    )
+    ^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_write.py", line 126, in do_write
+    write(_assemble_writes(writes))
+          ~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_write.py", line 181, in _assemble_writes
+    if ww := w.mapper(w.value):
+             ~~~~~~~~^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\graph\state.py", line 1284, in _get_updates
+    raise InvalidUpdateError(msg)
+langgraph.errors.InvalidUpdateError: Expected dict, got hi
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langgraph/errors/INVALID_GRAPH_NODE_RETURN_VALUE
+During task with name '__start__' and id '8a74f5ce-a434-cd8e-bc84-8f62f3d149ed'
+2026-04-16 12:40:52,277 - utils.logger - INFO - an excestion occured:Invalid input type <class 'dict'>. Must be a PromptValue, str, or list of BaseMessages.
+2026-04-16 12:40:52,284 - utils.logger - ERROR - exception occuredInvalid input type <class 'dict'>. Must be a PromptValue, str, or list of BaseMessages.
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\infra\agnet_client.py", line 32, in run_query
+    for chunks in self.client.stream(query):
+                  ~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 548, in stream
+    messages = self._convert_input(input).to_messages()
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 438, in _convert_input
+    raise ValueError(msg)
+ValueError: Invalid input type <class 'dict'>. Must be a PromptValue, str, or list of BaseMessages.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 15, in ai_answer
+    async for chunk in graph.astream({"input": query}):
+        yield str(chunk)
+        logger.info("agnet anwer fetched sucessfully")
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\main.py", line 3128, in astream
+    async for _ in runner.atick(
+    ...<16 lines>...
+            yield o
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_runner.py", line 304, in atick
+    await arun_with_retry(
+    ...<15 lines>...
+    )
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_retry.py", line 242, in arun_with_retry
+    return await task.proc.ainvoke(task.input, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 705, in ainvoke
+    input = await asyncio.create_task(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+        step.ainvoke(input, config, **kwargs), context=context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 5045, in ainvoke
+    return await self._acall_with_config(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 2111, in _acall_with_config
+    output: Output = await coro_with_context(coro, context)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 4963, in _ainvoke
+    async for chunk in cast(
+    ...<9 lines>...
+                output = chunk
+  File "C:\Users\shova\Desktop\project\Study-Duo\service\agent_node.py", line 9, in run
+    async for chunks in self.client.run_query(query=query):
+        yield str(chunks)
+  File "C:\Users\shova\Desktop\project\Study-Duo\infra\agnet_client.py", line 37, in run_query
+    raise RuntimeError(error)
+RuntimeError: Invalid input type <class 'dict'>. Must be a PromptValue, str, or list of BaseMessages.
+During task with name 'llm' and id 'e55c2ca4-33e6-0044-82b4-3bb182edde0e'
+2026-04-16 12:41:51,605 - utils.logger - ERROR - exception occured'async for' requires an object with __aiter__ method, got coroutine
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 15, in ai_answer
+    async for chunk in graph.ainvoke({"input": query}):
+                       ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+TypeError: 'async for' requires an object with __aiter__ method, got coroutine
+2026-04-16 12:42:07,590 - utils.logger - ERROR - exception occured'coroutine' object is not iterable
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 15, in ai_answer
+    for chunk in graph.ainvoke({"input": query}):
+                 ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+TypeError: 'coroutine' object is not iterable
+2026-04-16 12:42:16,809 - utils.logger - ERROR - exception occured'async for' requires an object with __aiter__ method, got coroutine
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 15, in ai_answer
+    async for chunk in graph.ainvoke({"input": query}):
+                       ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+TypeError: 'async for' requires an object with __aiter__ method, got coroutine
+2026-04-16 12:45:30,124 - utils.logger - ERROR - exception occured'async for' requires an object with __aiter__ method, got coroutine
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 15, in ai_answer
+    async for chunk in graph.ainvoke({"input": query}):
+                       ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+TypeError: 'async for' requires an object with __aiter__ method, got coroutine
+2026-04-16 12:47:53,005 - utils.logger - ERROR - exception occured'async for' requires an object with __aiter__ method, got coroutine
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 16, in genarator
+    async for chunk in graph.ainvoke({"input": query}):
+                       ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+TypeError: 'async for' requires an object with __aiter__ method, got coroutine
+2026-04-16 12:50:19,162 - utils.logger - ERROR - exception occured'async for' requires an object with __aiter__ method, got coroutine
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 16, in genarator
+    async for chunk in graph.ainvoke({"messages": [{"role": "user", "content": query}]}):
+                       ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'async for' requires an object with __aiter__ method, got coroutine
+2026-04-16 13:29:21,737 - utils.logger - ERROR - exception occured'async for' requires an object with __aiter__ method, got coroutine
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 16, in genarator
+    async for chunk in graph.ainvoke({"messages": [{"role": "user", "content": query}]}):
+                       ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'async for' requires an object with __aiter__ method, got coroutine
+2026-04-16 13:37:35,052 - utils.logger - ERROR - exception occured'async for' requires an object with __aiter__ method, got coroutine
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 16, in genarator
+    async for chunk in graph.ainvoke({"messages": [{"role": "user", "content": query}]}):
+                       ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'async for' requires an object with __aiter__ method, got coroutine
+2026-04-16 13:38:20,487 - utils.logger - INFO - an excestion occured:Invalid input type <class 'dict'>. Must be a PromptValue, str, or list of BaseMessages.
+2026-04-16 13:38:20,498 - utils.logger - ERROR - exception occuredInvalid input type <class 'dict'>. Must be a PromptValue, str, or list of BaseMessages.
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\infra\agnet_client.py", line 32, in run_query
+    for chunks in self.client.stream(query):
+                  ~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 548, in stream
+    messages = self._convert_input(input).to_messages()
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 438, in _convert_input
+    raise ValueError(msg)
+ValueError: Invalid input type <class 'dict'>. Must be a PromptValue, str, or list of BaseMessages.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 16, in genarator
+    async for chunk in graph.astream({"messages": [{"role": "user", "content": query}]}):
+        logger.info("agnet anwer fetched sucessfully")
+        yield str(chunk)
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\main.py", line 3128, in astream
+    async for _ in runner.atick(
+    ...<16 lines>...
+            yield o
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_runner.py", line 304, in atick
+    await arun_with_retry(
+    ...<15 lines>...
+    )
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_retry.py", line 242, in arun_with_retry
+    return await task.proc.ainvoke(task.input, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 705, in ainvoke
+    input = await asyncio.create_task(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+        step.ainvoke(input, config, **kwargs), context=context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 5045, in ainvoke
+    return await self._acall_with_config(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 2111, in _acall_with_config
+    output: Output = await coro_with_context(coro, context)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 4963, in _ainvoke
+    async for chunk in cast(
+    ...<9 lines>...
+                output = chunk
+  File "C:\Users\shova\Desktop\project\Study-Duo\service\agent_node.py", line 9, in run
+    async for chunks in self.client.run_query({"messages": [{"role": "user", "content": query}]}):
+        yield str(chunks)
+  File "C:\Users\shova\Desktop\project\Study-Duo\infra\agnet_client.py", line 37, in run_query
+    raise RuntimeError(error)
+RuntimeError: Invalid input type <class 'dict'>. Must be a PromptValue, str, or list of BaseMessages.
+During task with name 'llm' and id 'b167a310-9bd0-6ea2-282f-3a23df9dde82'
+2026-04-16 13:41:30,409 - utils.logger - ERROR - exception occured'HuggingFaceClient' object has no attribute 'generate'
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 16, in genarator
+    async for chunk in graph.astream({"messages": [{"role": "user", "content": query}]}):
+        logger.info("agnet anwer fetched sucessfully")
+        yield str(chunk)
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\main.py", line 3128, in astream
+    async for _ in runner.atick(
+    ...<16 lines>...
+            yield o
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_runner.py", line 304, in atick
+    await arun_with_retry(
+    ...<15 lines>...
+    )
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_retry.py", line 242, in arun_with_retry
+    return await task.proc.ainvoke(task.input, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 705, in ainvoke
+    input = await asyncio.create_task(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+        step.ainvoke(input, config, **kwargs), context=context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 473, in ainvoke
+    ret = await self.afunc(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\service\agent_node.py", line 12, in run
+    response = await self.client.generate(messages)
+                     ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'HuggingFaceClient' object has no attribute 'generate'
+During task with name 'llm' and id 'a20c4206-e0e5-3f32-e63f-fe9a3d3ff4c7'
+2026-04-16 13:41:59,113 - utils.logger - ERROR - exception occuredobject async_generator can't be used in 'await' expression
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 16, in genarator
+    async for chunk in graph.astream({"messages": [{"role": "user", "content": query}]}):
+        logger.info("agnet anwer fetched sucessfully")
+        yield str(chunk)
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\main.py", line 3128, in astream
+    async for _ in runner.atick(
+    ...<16 lines>...
+            yield o
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_runner.py", line 304, in atick
+    await arun_with_retry(
+    ...<15 lines>...
+    )
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_retry.py", line 242, in arun_with_retry
+    return await task.proc.ainvoke(task.input, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 705, in ainvoke
+    input = await asyncio.create_task(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+        step.ainvoke(input, config, **kwargs), context=context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 473, in ainvoke
+    ret = await self.afunc(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\service\agent_node.py", line 12, in run
+    response = await self.client.run_query(messages)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: object async_generator can't be used in 'await' expression
+During task with name 'llm' and id '73a3906a-d55c-01a0-c017-a50b542215c9'
+2026-04-16 13:47:23,064 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,065 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,065 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,066 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,068 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,068 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,069 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,095 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,096 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,107 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,108 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,108 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,109 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,118 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,119 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,119 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,122 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,122 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,143 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,144 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,144 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,145 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,148 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,158 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,173 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,174 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,174 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,189 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,190 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,191 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,191 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,192 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,194 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,195 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,195 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,199 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,199 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,200 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,207 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,208 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,208 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,217 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,232 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,233 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,233 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,234 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,234 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,243 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,243 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,244 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,263 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,264 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,265 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,283 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,284 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,284 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,285 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,292 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,301 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,309 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,312 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,319 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,320 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,348 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,349 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,350 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,353 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,353 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,353 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,362 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,363 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,762 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,773 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,781 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,782 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,782 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,787 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,788 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,788 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,798 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,798 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,806 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,806 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,813 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,813 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,814 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,827 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,827 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,828 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,831 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,831 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,832 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,839 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,840 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,840 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,848 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,862 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,863 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,866 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,866 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,867 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,877 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,884 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,884 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,885 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,891 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,892 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,892 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,898 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,899 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,910 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,910 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,911 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,918 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,919 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,919 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,927 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,927 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,928 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,928 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,929 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:47:23,935 - utils.logger - INFO - agnet anwer fetched sucessfully
+2026-04-16 13:51:19,035 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,036 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,046 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,047 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,056 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,057 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,058 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,069 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,083 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,083 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,084 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,094 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,105 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,105 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,106 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,120 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,121 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,121 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,129 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,144 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,144 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,145 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,153 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,153 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,176 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,177 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,177 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,178 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,179 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,179 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,188 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,189 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,190 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,204 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,204 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,205 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:19,212 - utils.logger - INFO - agnet anwer fetched sucessfully
+2026-04-16 13:51:55,695 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,695 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,696 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,697 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,697 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,698 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,699 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,699 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,700 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,700 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,701 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,702 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,702 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,703 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,704 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,704 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,705 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,706 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,707 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,707 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,708 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,709 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,710 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,710 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,720 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,720 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,721 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,726 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,732 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,742 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,742 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,750 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,765 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,765 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,766 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,777 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,781 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,792 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,798 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,799 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,799 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,810 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,810 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,811 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,819 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,820 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,821 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,829 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,830 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,830 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,837 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,838 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,851 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,857 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,858 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,867 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,877 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,878 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,879 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,887 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,900 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,905 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,906 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,913 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,914 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,922 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,923 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,923 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,952 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,953 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,953 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,954 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,955 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,955 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,962 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,962 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,967 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,968 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,968 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,977 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,986 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:55,995 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,006 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,017 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,025 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,033 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,043 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,059 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,059 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,065 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,077 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,077 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,078 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,084 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,097 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,102 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,113 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,113 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,127 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,135 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,140 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,142 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,143 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,151 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,161 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,173 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,174 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,179 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,193 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,194 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,202 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,212 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,213 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,216 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,217 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,232 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,233 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,233 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,236 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,245 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,258 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,259 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,262 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,263 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,264 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,271 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,272 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,273 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,283 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,283 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,284 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,284 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,285 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:51:56,297 - utils.logger - ERROR - exception occuredExpected dict, got {'\n\nHello! How can I help you today?'}
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langgraph/errors/INVALID_GRAPH_NODE_RETURN_VALUE
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 14, in genarator
+    async for chunk in graph.astream({"messages": [{"role": "user", "content": query}]}):
+        logger.info("agnet anwer fetched sucessfully")
+        yield str(chunk)
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\main.py", line 3128, in astream
+    async for _ in runner.atick(
+    ...<16 lines>...
+            yield o
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_runner.py", line 304, in atick
+    await arun_with_retry(
+    ...<15 lines>...
+    )
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_retry.py", line 242, in arun_with_retry
+    return await task.proc.ainvoke(task.input, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 711, in ainvoke
+    input = await step.ainvoke(input, config)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 473, in ainvoke
+    ret = await self.afunc(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_write.py", line 99, in _awrite
+    self.do_write(
+    ~~~~~~~~~~~~~^
+        config,
+        ^^^^^^^
+        writes,
+        ^^^^^^^
+    )
+    ^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_write.py", line 126, in do_write
+    write(_assemble_writes(writes))
+          ~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_write.py", line 181, in _assemble_writes
+    if ww := w.mapper(w.value):
+             ~~~~~~~~^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\graph\state.py", line 1284, in _get_updates
+    raise InvalidUpdateError(msg)
+langgraph.errors.InvalidUpdateError: Expected dict, got {'\n\nHello! How can I help you today?'}
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langgraph/errors/INVALID_GRAPH_NODE_RETURN_VALUE
+During task with name 'llm' and id 'e64b4720-7d44-51c5-31df-7ad8d005e8be'
+2026-04-16 13:52:17,589 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,590 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,595 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,596 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,605 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,606 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,606 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,617 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,618 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,618 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,638 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,639 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,639 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,640 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,640 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,641 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,645 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,646 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,647 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,658 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,659 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,659 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,663 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,663 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,677 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,681 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,682 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,691 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,700 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,701 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,707 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,720 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,721 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,729 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,738 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,743 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,743 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,752 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,761 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,762 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,772 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,773 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,773 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,777 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,777 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,804 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,804 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,805 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,805 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,806 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,806 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,807 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,808 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:17,808 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:18,506 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:18,506 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:18,507 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:18,507 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:18,508 - utils.logger - INFO - streming respones fetched succesful
+2026-04-16 13:52:18,514 - utils.logger - INFO - agnet anwer fetched sucessfully
+2026-04-16 14:44:20,405 - utils.logger - INFO - an excestion occured:(Request ID: Root=1-69e0a865-7a09b4d52cc4684f71f60cf7;5f5b4360-8c12-4cf5-97b8-733e2c2396c2-chatcmpl-c6e6c83)
+
+429 Too Many Requests for url: https://router.huggingface.co/v1/chat/completions.
+{'object': 'error', 'type': 'invalid_request_error', 'code': 'too_many_requests', 'message': "Request didn't generate first token before the given deadline, the service is overloaded"}
+2026-04-16 14:44:20,416 - utils.logger - ERROR - exception occured(Request ID: Root=1-69e0a865-7a09b4d52cc4684f71f60cf7;5f5b4360-8c12-4cf5-97b8-733e2c2396c2-chatcmpl-c6e6c83)
+
+429 Too Many Requests for url: https://router.huggingface.co/v1/chat/completions.
+{'object': 'error', 'type': 'invalid_request_error', 'code': 'too_many_requests', 'message': "Request didn't generate first token before the given deadline, the service is overloaded"}
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\huggingface_hub\utils\_http.py", line 761, in hf_raise_for_status
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\httpx\_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '429 Too Many Requests' for url 'https://router.huggingface.co/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\infra\agnet_client.py", line 32, in run_query
+    for chunks in self.client.stream(query):
+                  ~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 592, in stream
+    for chunk in self._stream(input_messages, stop=stop, **kwargs):
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_huggingface\chat_models\huggingface.py", line 841, in _stream
+    for chunk in self.llm.client.chat_completion(
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        messages=message_dicts, **params
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\huggingface_hub\inference\_client.py", line 929, in chat_completion
+    data = self._inner_post(request_parameters, stream=stream)
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\huggingface_hub\inference\_client.py", line 282, in _inner_post
+    hf_raise_for_status(response)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\huggingface_hub\utils\_http.py", line 868, in hf_raise_for_status
+    raise _format(HfHubHTTPError, message, response) from e
+huggingface_hub.errors.HfHubHTTPError: (Request ID: Root=1-69e0a865-7a09b4d52cc4684f71f60cf7;5f5b4360-8c12-4cf5-97b8-733e2c2396c2-chatcmpl-c6e6c83)
+
+429 Too Many Requests for url: https://router.huggingface.co/v1/chat/completions.
+{'object': 'error', 'type': 'invalid_request_error', 'code': 'too_many_requests', 'message': "Request didn't generate first token before the given deadline, the service is overloaded"}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\shova\Desktop\project\Study-Duo\api\endpoint.py", line 18, in genarator
+    async for chunk in graph.astream({"messages": [{"role": "user", "content": query}]}):
+    ...<2 lines>...
+        yield str(chunk)
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\main.py", line 3128, in astream
+    async for _ in runner.atick(
+    ...<16 lines>...
+            yield o
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_runner.py", line 304, in atick
+    await arun_with_retry(
+    ...<15 lines>...
+    )
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\pregel\_retry.py", line 242, in arun_with_retry
+    return await task.proc.ainvoke(task.input, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 705, in ainvoke
+    input = await asyncio.create_task(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+        step.ainvoke(input, config, **kwargs), context=context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 5045, in ainvoke
+    return await self._acall_with_config(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 2111, in _acall_with_config
+    output: Output = await coro_with_context(coro, context)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shova\Desktop\project\Study-Duo\.venv\Lib\site-packages\langchain_core\runnables\base.py", line 4963, in _ainvoke
+    async for chunk in cast(
+    ...<9 lines>...
+                output = chunk
+  File "C:\Users\shova\Desktop\project\Study-Duo\service\agent_node.py", line 12, in run
+    async for chunk in self.client.run_query(messages):
+    ...<2 lines>...
+        yield {"messages": [{"role": "assistant", "content": respones}]}
+  File "C:\Users\shova\Desktop\project\Study-Duo\infra\agnet_client.py", line 37, in run_query
+    raise RuntimeError(error)
+RuntimeError: (Request ID: Root=1-69e0a865-7a09b4d52cc4684f71f60cf7;5f5b4360-8c12-4cf5-97b8-733e2c2396c2-chatcmpl-c6e6c83)
+
+429 Too Many Requests for url: https://router.huggingface.co/v1/chat/completions.
+{'object': 'error', 'type': 'invalid_request_error', 'code': 'too_many_requests', 'message': "Request didn't generate first token before the given deadline, the service is overloaded"}
+During task with name 'llm' and id '15790fc0-623f-405e-51e2-5dfc51b9e731'

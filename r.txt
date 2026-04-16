@@ -1,0 +1,5 @@
+langchain
+fastapi[standard]
+redis[hiredis]
+langchain_Huggingface
+langchain_community

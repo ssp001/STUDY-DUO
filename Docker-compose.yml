@@ -1,0 +1,12 @@
+services:
+  Redish:
+   image: "redis:7-alpine"
+   container_name: Redish
+   ports:
+     - 6397:6397
+   restart: always
+   command: redis-server --requirepass admin1234 --appendonly yes
+   volumes:
+     - redis_data:/data
+volumes:
+  redis_data:
